@@ -1,9 +1,103 @@
 ---
 title: "About"
 ---
+::: justify
 
-About this site
+# About the Resource Team
 
-```{r}
-1 + 1
-```
+Our team  is comprised of skilled professionals who possess a wealth of experience in the field of public health and health data science. Together, we are committed to converting health data into meaningful evidence for public health decision-making purposes.
+
+Our team's areas of expertise include public health informatics, geospatial analysis, telemedicine, health technology assessment, and infectious disease epidemiology. In addition to that, we promote open data initiatives, FOSS resources, and reproducible research initiatives to facilitate people's understanding of data science. Our team members are also affiliated with the R Epidemics Consortium and the Society for Data Science, international organizations dedicated to enhancing people's data science skills.
+
+Members of our have undergone advanced training and have participated in several funded data science initiatives and projects. We are passionate about social determinants of health, health policy, implementation studies, health systems research, and health inequity. We are devoted to offering guidance and support to participants in the National Workshop on Health Data Analysis, empowering them to develop the skills and knowledge required to excel in health data analytics.
+
+# About SCTIMST
+
+Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Trivandrum (<https://sctimst.ac.in/>) was established as an Institution of National Importance by an Act of the Indian Parliament (Act No.52 of 1980) with a unique mandate that combined development of biomedical technologies, advanced speciality patient care, higher education, clinical, basic & applied research and public health, under a single institutional framework.
+
+The institute has a university status and consists of the Biomedical Technology Wing (BMT Wing), a tertiary super speciality Hospital Wing and the Achutha Menon Centre for Health Science Studies (AMCHSS).
+
+# About AMCHSS
+
+The Achutha Menon Centre for Health Science Studies (AMCHSS) <https://www.sctimst.ac.in/About%20SCTIMST/Organisation/AMCHSS/> is recognized as a centre of excellence for public health training by the Ministry of Health and Family Welfare Government of India. AMCHSS is the public health unit of SCTIMST and offers masters level courses in Public Health as well as PhD. It is one of regional resource centres for health technology assessment (<https://htain.icmr.org.in/>) established under the Department of Health Research (DHR), MoHFW, Govt of India. It has also been identified by the Indian Council for Medical Research (ICMR) as an Advanced Centre for Clinical Trials.
+
+AMCHSS has been working with the following objectives:
+
+(i) To train highly competent and socially committed public health professionals.
+(ii) To advocate for policies that promote equity in health.
+(iii) To undertake quality research on priority health issues of the country.
+(iv) To offer consultancy services to national and international agencies.
+
+
+:::
+### Ongoing Data Science Research at AMCHSS
+
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| SNo | Project                                                                                                                                                        | Funding Agency                                                                             |
++=====+================================================================================================================================================================+============================================================================================+
+| 1\. |                                                                                                                                                                |                                                                                            |
+|     | Digital platforms for disease surveillance and control: Best practice case studies from Asia (DMgtAsia)                                                        | Norwegian Agency for International Corporation and Quality Enhancement in Higher Education |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| 2\. |                                                                                                                                                                | Indian Council for Medical Research (ICMR)                                                 |
+|     | Transforming COVID-19 testing data into actionable evidence for public health decision- making using epidemiological, spatiotemporal, and data-science methods |                                                                                            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+| 3\. |                                                                                                                                                                |                                                                                            |
+|     | Adapting surveillance (Nikshay) data to create decision support systems for tuberculosis elimination in Kerala using spatial epidemiology                      | Central TB Division of the Ministry of Health and Family Welfare, Govt of India            |
++-----+----------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+
+### Some Data Science related publications by the team:
+
+::: justify
+1.  Mitra A, Soman B, Gaitonde R, Bhatnagar T, Nieuhas E, Kumar S. Data Science Approaches to Public Health: Case Studies Using Routine Health Data from India. 2023 Jan 20 \[cited 2023 Mar 5\]; Available from: [https://easychair.org/publications/preprint/DRZB](https://easychair.org/publications/preprint/DRZB){style="font-size: 15pt;"}
+
+2.  Mitra A, Soman B, Gaitonde R, Singh G, Roy A. Data Science Methods to Develop Decision Support Systems for Real-time Monitoring of COVID-19 Outbreak. Journal of Human, Earth, and Future. 2022 Jun 1;3:223--36. <https://doi.org/10.28991/HEF-2022-03-02-08>
+
+3.  Mitra A, Soman B, Singh G. An Interactive Dashboard for Real-Time Analytics and Monitoring of COVID-19 Outbreak in India: A proof of Concept. 2021. Available from: <https://arxiv.org/abs/2108.09937>
+
+4.  Singh G, Soman B, Mitra A. A Systematic Approach to Cleaning Routine Health Surveillance Datasets: An Illustration Using National Vector Borne Disease Control Programme Data of Punjab, India. 2021. Available from: <https://arxiv.org/abs/2108.09963>
+
+5.  Singh G, Soman B, Grover G. Development and use of open-source algorithms for space-time emerging hotspot analysis of routine dengue NVBDCP data in Punjab, India. International Journal Of Community Medicine And Public Health. 2022 Dec 13;10. <https://doi.org/10.18203/2394-6040.ijcmph20223288>
+
+6.  Singh G, Soman B, Grover G. Exploratory Spatio-Temporal Data Analysis (ESTDA) of Dengue and its association with climatic, environmental, and sociodemographic factors in Punjab, India. Ecological Informatics. 2023 Feb 1;75:102020. <https://doi.org/10.1016/j.ecoinf.2023.102020>
+
+7.  Mitra A, Pakhare A, Joshi A, Roy A. Incidence Modelling - COVID19 - Computational Workflow v1. 2020.
+    Available from: <https://protocols.io/view/incidence-modelling-covid19-computational-workflow-bh8vj9w6>
+
+8.  Asif K, Soman B, Roy A, Herial N, Desai S, Ortega S, J Potter-Vig, J Pandian, V Huded, D Yavagal, P Sylaja, A Mitra. Access (travel) to stroke centers in India: An MT2020+ pilot geomapping analysis at the sub-district and population-center level. International journal of stroke. 2022. p. 31--2.
+
+9.  Mitra A, Pakhare A, Roy A, Joshi A. Impact of COVID-19 epidemic curtailment strategies in selected Indian states: An analysis by reproduction number and doubling time with incidence modelling. PLoS ONE. 2020 Sep 16;15:e0239026.
+    <https://doi.org/10.1371/journal.pone.0239026>
+
+10. Singh G, Mitra A, Soman B. Development and Use of a Reproducible Framework for Spatiotemporal Climatic Risk Assessment and its Association with Decadal Trend of Dengue in India. Indian Journal of Community Medicine. 2022 Mar 16;47. [10.4103/ijcm.ijcm_862_21](https://doi.org/10.4103/ijcm.ijcm_862_21)
+
+11. Singh G, Soman B. Spatiotemporal Epidemiology and Forecasting of Dengue in the state of Punjab, India: Study Protocol. Spatial and Spatio-temporal Epidemiology. 2021 Jul 1;39:100444. <https://doi.org/10.1016/j.sste.2021.100444>
+
+12. Thompson H, Mousa A, Dighe A, Fu H, arnedo-pena A, Barrett P, et al. SARS-CoV-2 setting-specific transmission rates: a systematic review and meta-analysis. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. 2021 Feb 9;73. <https://doi.org/10.1093/cid/ciab100>
+
+13. Pan S, Kannath S, Singh G, Rajan J. A Prospective Study Comparing the Three-Dimensional Rotational Angiography and Two-Dimensional Digital Subtraction Angiography in Evaluation of Brain Arteriovenous Malformations. Neurology India. 2022 Jan 1;70:1905. <https://doi.org/10.4103/0028-3886.359242>
+
+14. Rahul A, Saini DrP, Valamparampil M, Singh G, Suresh M, K C P, et al. Epidemiological and clinical characterization of dengue virus serotypes during 2017--2019 in southern Kerala, India. Transactions of The Royal Society of Tropical Medicine and Hygiene. 2022 Feb 10;116. <https://doi.org/10.1093/trstmh/trac001>
+
+15. Saleem S, Singh G, Zaidi I, Goel S, Singh M. Geospatial epidemiology of hypertension and its risk factors in India- Findings from National Family Health Survey 2015-2016. Journal of Family Medicine and Primary Care. 2022 Sep 22;11:5730--7. DOI: [10.4103/jfmpc.jfmpc_174_22](https://doi.org/10.4103/jfmpc.jfmpc_174_22)
+
+16. Roy A, Singh A, Mishra S, Chinnadurai A, Mitra A, Bakshi O. Mental health implications of COVID-19 pandemic and its response in India. International Journal of Social Psychiatry. 2020 Sep 1;67. <https://doi.org/10.1177%2F0020764020950769>
+
+17. Joshi A, Mitra A, Anjum N, Shrivastava N, Khadanga S, Pakhare A, et al. Patterns of Glycemic Variability During a Diabetes Self-Management Educational Program. Medical Sciences. 2019 Mar 25;7:52. <https://doi.org/10.3390/medsci7030052>
+
+18. Roy A, Mitra A, Roy D. Occupational radiation exposure among orthopaedic surgeons and a need for heath promotional approach. International Journal of Community Medicine and Public Health. 2021 Jun 1;8:3017. <https://doi.org/10.18203/2394-6040.ijcmph20212008>
+
+19. Singh G, Soman B. A brief introduction to Mathematical Disease Modelling in R. 2020.
+
+20. Singh G, Soman B. Automated bibliography extraction from PubMed using R. 2020.
+
+21. Singh G, Soman B. Information from models to understand outbreak situation An illustrative example using COVID-19 data. 2020.
+
+22. Singh G, Soman B. Spatial interpolation using kriging in R. 2020.
+
+23. Goyal A, Joshi A, Mitra A, Khurana A, Chaudhary P. Predictive factors for CPAP failure in obstructive sleep apnea patients. Lung India. 2021 Oct 26;38:540--4. <https://doi.org/10.4103/lungindia.lungindia_867_20>
+
+24. Krishnamoorthy S, Singh G, Sreedharan S, Damayanthi D, Gopala S, Urulangodi M, et al. Soluble ST2 Predicts Poor Functional Outcome in Acute Ischemic Stroke Patients. Cerebrovascular Diseases Extra. 2023 Feb 8; <https://doi.org/10.1159/000529512>
+
+25. Krishnamoorthy S, Sylaja P, Sreedharan S, Singh G, Damayanthi D, Gopala S, et al. Biomarkers predict hemorrhagic transformation and stroke severity after acute ischemic stroke. Journal of Stroke and Cerebrovascular Diseases. 2023 Jan 1;32:106875. <https://doi.org/10.1159/000518570>
+
+:::
