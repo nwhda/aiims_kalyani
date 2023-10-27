@@ -18,7 +18,7 @@ If you are interested in the workshop - please submit an application at <https:/
 🗓 December 04 - 07, 2023\
 ⏰ 09:00 - 17:00, on all four days\
 📍 All India Institute of Medical Sciences, Kalyani, West Bengal\
-💲 Rs. 6500/- (inclusive of course kit, working lunch, and refreshments)\
+`r knitr::asis_output("\U20B9")` Rs. 6500/- (inclusive of course kit, working lunch, and refreshments)\
 ✍️ <https://forms.gle/FWUWRXvrTM4WErjZ8> 
 
 ------------------------------------------------------------------------
