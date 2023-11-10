@@ -10,7 +10,7 @@ format: html
 ::: callout-tip
 ## Registation Open!
 
-If you are interested in the workshop - please submit an application at <https://forms.gle/FWUWRXvrTM4WErjZ8> before 10th November, 2023.
+If you are interested in the workshop - please submit an application at <https://forms.gle/FWUWRXvrTM4WErjZ8> before 17th November, 2023.
 :::
 
 ------------------------------------------------------------------------
@@ -18,8 +18,8 @@ If you are interested in the workshop - please submit an application at <https:/
 🗓 December 04 - 07, 2023\
 ⏰ 09:00 - 17:00, on all four days\
 📍 All India Institute of Medical Sciences, Kalyani, West Bengal\
-`r knitr::asis_output("\U2008") ` `r knitr::asis_output("\U20B9") ` `r knitr::asis_output("\U2008") ` Rs. 6500/- (inclusive of course kit, working lunch, and refreshments)\
-✍️ <https://forms.gle/FWUWRXvrTM4WErjZ8> 
+`r knitr::asis_output("\U2008")` `r knitr::asis_output("\U20B9")` `r knitr::asis_output("\U2008")` Rs. 6500/- (inclusive of course kit, working lunch, and refreshments)\
+✍️ <https://forms.gle/FWUWRXvrTM4WErjZ8>
 
 ------------------------------------------------------------------------
 
@@ -155,9 +155,9 @@ Research Officer & PhD Scholar, <br> SCTIMST, Trivandrum
 
 In case of queries please contact:<br>
 
- {{< fa phone >}}      +91 790 406 0377 -   Dr. Sembagamuthu (AIIMS Kalyani)\
- 
-{{< fa phone >}}      +91 950 356 3356 -   Dr. Arun Mitra  (SCTIMST, Trivandrum)  
+{{< fa phone >}} +91 790 406 0377 - Dr. Sembagamuthu (AIIMS Kalyani)\
+
+{{< fa phone >}} +91 950 356 3356 - Dr. Arun Mitra (SCTIMST, Trivandrum)
 
 <br>
 
