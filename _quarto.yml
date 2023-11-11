@@ -4,7 +4,13 @@ project:
 
 website:
   title: "National Workshop Health Data Analytics -2023"
+  favicon: /images/nwhda_hex.png
+  body-header: |
+    Registrations have been extended until 17th Nov, 2023. Hurry!!
+  margin-header: |
+    ![](/images/nwhda_hex.png){width="65%"}
   navbar:
+    logo: /images/nwhda_hex.png
     left:
       - href: index.qmd
         text: Home
